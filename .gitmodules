@@ -1,0 +1,6 @@
+[submodule "OFB_Timer"]
+	path = OFB_Timer
+	url = git@github-personal:brickeddroid/ofb_timer.git
+[submodule "OFB_PIDController"]
+	path = OFB_PIDController
+	url = git@github-personal:brickeddroid/ofb_pidcontroller.git
