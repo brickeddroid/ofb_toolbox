@@ -2,10 +2,9 @@
 ## Toolbox
 Container for different tools used by OFB
 
-After cloning this repository, run following command:
+Clone this repository and copy its content with the following commands
 ```
-cd ofb_toolbox
-git submodule update --remote --merge
-cp -r OFB_* [Path/to/your/Arduino/libraries/folder]
+git clone -recursive https://github.com/brickeddroid/ofb_toolbox.git
+cp -r ofb_toolbox/OFB_* [Path/to/your/Arduino/libraries/folder]
 ```
 Replace `[Path/to/your/Arduino/libraries/folder]` with the path to your arduino `libraries` directory.
